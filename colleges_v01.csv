@@ -1,0 +1,480 @@
+﻿SCHOOLID,SCHOOLNAME,2KID,IS05
+0,Air Force,2,TRUE
+1,Akron,3,TRUE
+2,Alabama,4,TRUE
+3,Appalachian State,11,TRUE
+4,Arizona,13,TRUE
+5,Arizona State,14,TRUE
+6,Arkansas,15,TRUE
+7,Auburn,22,TRUE
+8,Ball State,27,TRUE
+9,Baylor,29,TRUE
+10,Boise State,36,TRUE
+11,Boston College,38,TRUE
+12,Bowling Green,41,TRUE
+13,BYU,48,TRUE
+14,Brown,44,TRUE
+15,Buffalo,46,TRUE
+16,California,55,TRUE
+17,Central Michigan,65,TRUE
+18,College of Charleston,83,TRUE
+19,Chattanooga,68,TRUE
+20,Cincinnati,73,TRUE
+21,Clemson,76,TRUE
+22,Colorado,85,TRUE
+23,Colorado State,86,TRUE
+24,Columbia,87,TRUE
+25,Connecticut,89,TRUE
+26,Cornell,91,TRUE
+27,Dartmouth,98,TRUE
+28,Davidson,99,TRUE
+29,Dayton,100,TRUE
+30,DePaul,107,TRUE
+31,Duke,114,TRUE
+32,Duquesne,116,TRUE
+33,East Carolina,117,TRUE
+34,East Tennessee State,120,TRUE
+35,Eastern Michigan,122,TRUE
+36,Eastern Washington,123,TRUE
+37,Florida,138,TRUE
+38,Florida State,142,TRUE
+39,Fordham,144,TRUE
+40,Fresno State,146,TRUE
+41,Furman,147,TRUE
+42,George Washington,150,TRUE
+43,Georgetown,151,TRUE
+44,Georgia,152,TRUE
+45,Georgia Southern,153,TRUE
+46,Georgia Tech,155,TRUE
+47,Gonzaga,159,TRUE
+48,Harvard,171,TRUE
+49,Hawaii,172,TRUE
+50,Houston,180,TRUE
+51,Idaho State,184,TRUE
+52,Illinois,185,TRUE
+53,Indiana,192,TRUE
+54,Iowa,196,TRUE
+55,Iowa State,197,TRUE
+56,Kansas,210,TRUE
+57,Kansas State,211,TRUE
+58,Kent State,213,TRUE
+59,Kentucky,214,TRUE
+60,La Salle,216,TRUE
+61,Louisiana Tech,230,TRUE
+62,Louisville,232,TRUE
+63,Loyola Marymount,236,TRUE
+64,LSU,237,TRUE
+65,Marquette,242,TRUE
+66,Marshall,243,TRUE
+67,Maryland,246,TRUE
+68,Massachusetts,249,TRUE
+69,Memphis,252,TRUE
+70,Miami,258,TRUE
+71,Miami (OH),259,TRUE
+72,Michigan,260,TRUE
+73,Michigan State,261,TRUE
+74,Minnesota,264,TRUE
+75,Mississippi State,266,TRUE
+76,Missouri,268,TRUE
+77,Montana,273,TRUE
+78,Montana State,274,TRUE
+79,UNC Charlotte,479,TRUE
+80,UNC Greensboro,480,TRUE
+81,Nebraska,284,TRUE
+82,Nevada,286,TRUE
+83,New Mexico,289,TRUE
+84,North Carolina,298,TRUE
+85,North Carolina State,301,TRUE
+86,Northern Arizona,308,TRUE
+87,Northern Illinois,310,TRUE
+88,Northwestern,312,TRUE
+89,Notre Dame,315,TRUE
+90,Ohio University,322,TRUE
+91,Ohio State,321,TRUE
+92,Oklahoma,325,TRUE
+93,Oklahoma State,326,TRUE
+94,Ole Miss,327,TRUE
+95,Oregon,329,TRUE
+96,Oregon State,330,TRUE
+97,Penn,334,TRUE
+98,Penn State,335,TRUE
+99,Pepperdine,337,TRUE
+100,Pittsburgh,344,TRUE
+101,Portland,346,TRUE
+102,Portland State,347,TRUE
+103,Princeton,350,TRUE
+104,Providence,351,TRUE
+105,Purdue,353,TRUE
+106,Rhode Island,358,TRUE
+107,Rice,359,TRUE
+108,Richmond,360,TRUE
+109,Rutgers,365,TRUE
+110,Cal St. Sacramento,49,TRUE
+111,St. Joseph's,424,TRUE
+112,St. Louis,425,TRUE
+113,St. Mary's,426,TRUE
+114,San Diego,371,TRUE
+115,San Diego State,373,TRUE
+116,San Francisco,374,TRUE
+117,San Jose State,376,TRUE
+118,Santa Clara,377,TRUE
+119,Seton Hall,387,TRUE
+120,South Carolina,399,TRUE
+121,South Florida,402,TRUE
+122,SMU,394,TRUE
+123,Southern Miss,415,TRUE
+124,St. Bonaventure,419,TRUE
+125,St. John's (NY),422,TRUE
+126,Stanford,432,TRUE
+127,Syracuse,442,TRUE
+128,Temple,444,TRUE
+129,Tennessee,445,TRUE
+130,Texas,449,TRUE
+131,Texas A&M,450,TRUE
+132,TCU,443,TRUE
+133,Texas Tech,456,TRUE
+134,The Citadel,459,TRUE
+135,Toledo,461,TRUE
+136,Tulane,465,TRUE
+137,Tulsa,466,TRUE
+138,UAB,469,TRUE
+139,UCLA,476,TRUE
+140,UNLV,483,TRUE
+141,USC,485,TRUE
+142,Utah,486,TRUE
+143,UTEP,489,TRUE
+144,Vanderbilt,491,TRUE
+145,Villanova,496,TRUE
+146,Virginia,497,TRUE
+147,Virginia Tech,498,TRUE
+148,VMI,500,TRUE
+149,Wake Forest,502,TRUE
+150,Washington,503,TRUE
+151,Washington State,504,TRUE
+152,Weber State,507,TRUE
+153,West Virginia,511,TRUE
+154,Western Carolina,515,TRUE
+155,Western Michigan,518,TRUE
+156,Wisconsin,524,TRUE
+157,Wofford,529,TRUE
+158,Wyoming,531,TRUE
+159,Xavier (OH),532,TRUE
+160,Yale,533,TRUE
+190,Chaminade,66,TRUE
+195,Alabama A&M,5,TRUE
+196,Alabama State,6,TRUE
+197,Albany,6,TRUE
+198,Alcorn State,8,TRUE
+199,American,9,TRUE
+202,Arkansas State,17,TRUE
+203,Arkansas Little Rock,16,TRUE
+204,Arkansas-Pine Bluff,18,TRUE
+205,Army,19,TRUE
+206,Austin Peay,24,TRUE
+207,Belmont,31,TRUE
+208,Bethune-Cookman,32,TRUE
+209,Binghamton,33,TRUE
+210,Birmingham-Southern,34,TRUE
+211,Boston University,39,TRUE
+212,Bradley,42,TRUE
+213,Bucknell,45,TRUE
+214,Butler,47,TRUE
+215,Cal Poly,49,TRUE
+216,Cal State Fullerton,52,TRUE
+217,Cal State Northridge,53,TRUE
+218,Campbell,57,TRUE
+219,Canisius,59,TRUE
+220,Central Connecticut State,63,TRUE
+221,Central Florida,64,TRUE
+222,Charleston Southern,67,TRUE
+223,Chicago State,70,TRUE
+224,Cleveland State,78,TRUE
+225,Coastal Carolina,80,TRUE
+226,Colgate,82,TRUE
+227,Coppin State,90,TRUE
+228,Creighton,93,TRUE
+229,Delaware,101,TRUE
+230,Delaware State,103,TRUE
+231,Denver,106,TRUE
+232,Detroit,108,TRUE
+233,Drake,112,TRUE
+234,Drexel,113,TRUE
+237,East Illinois,118,TRUE
+238,Eastern Kentucky,121,TRUE
+239,Elon,129,TRUE
+240,Evansville,132,TRUE
+241,Fairfield,133,TRUE
+242,Fairleigh Dickinson,134,TRUE
+243,Florida A&M,139,TRUE
+244,Florida Atlantic,140,TRUE
+245,Florida International,141,TRUE
+246,Gardner-Webb,148,TRUE
+247,George Mason,149,TRUE
+250,Georgia State,154,TRUE
+252,Grambling,160,TRUE
+253,Hampton,166,TRUE
+254,Hartford,170,TRUE
+255,High Point,174,TRUE
+256,Hofstra,176,TRUE
+257,Holy Cross,177,TRUE
+259,Howard,181,TRUE
+260,Idaho,183,TRUE
+261,Illinois State,187,TRUE
+262,Illinois-Chicago,189,TRUE
+264,Indiana State,193,TRUE
+266,Iona,195,TRUE
+268,IUPUI,203,TRUE
+269,Jackson State,204,TRUE
+270,Jacksonville,205,TRUE
+271,Jacksonville State,206,TRUE
+272,James Madison,208,TRUE
+275,Lafayette,217,TRUE
+276,Lamar,217,TRUE
+277,Lehigh,217,TRUE
+278,Liberty,223,TRUE
+279,Long Beach State,226,TRUE
+280,Long Island,227,TRUE
+281,Louisiana Lafayette,229,TRUE
+282,Louisiana-Monroe,231,TRUE
+283,Loyola (IL),234,TRUE
+284,Loyola (MD),235,TRUE
+286,Maine,238,TRUE
+287,Manhattan,240,TRUE
+288,Marist,241,TRUE
+289,Maryland Baltimore County,247,TRUE
+290,Maryland Eastern Shore,248,TRUE
+291,McNeese State,251,TRUE
+292,Mercer,254,TRUE
+296,Middle Tennessee State,262,TRUE
+297,Mississippi Valley State,267,TRUE
+298,Missouri Kansas City,269,TRUE
+299,Monmouth,272,TRUE
+300,Morehead State,275,TRUE
+301,Morgan State,276,TRUE
+302,Mount St Mary's,278,TRUE
+303,Murray State,280,TRUE
+305,Navy,283,TRUE
+308,New Hampshire,287,TRUE
+309,UNC Wilmington,481,TRUE
+310,New Orleans,291,TRUE
+311,Niagara,293,TRUE
+312,Nicholls State,294,TRUE
+313,Norfolk State,297,TRUE
+316,North Carolina A&T,299,TRUE
+318,UNC Asheville,478,TRUE
+319,#N/A,#N/A,FALSE
+320,North Texas,306,TRUE
+321,Southeastern Louisiana,408,TRUE
+322,Northeastern,307,TRUE
+323,Northern Iowa,311,TRUE
+324,Northwestern State,313,TRUE
+325,Oakland,319,TRUE
+326,Old Dominion,327,TRUE
+327,Oral Roberts,328,TRUE
+328,Pacific,331,TRUE
+330,Prairie View A&M,348,TRUE
+331,Quinnipiac,355,TRUE
+332,Radford,356,TRUE
+333,Rider,361,TRUE
+334,Robert Morris,362,TRUE
+335,Sacred Heart,367,TRUE
+336,Sam Houston State,369,TRUE
+337,Samford,370,TRUE
+338,Siena,390,TRUE
+339,South Alabama,398,TRUE
+340,South Carolina State,400,TRUE
+341,Southeast Missouri State,406,TRUE
+342,Southern A&M,411,TRUE
+343,Southern Illinois,413,TRUE
+344,Southern Utah,416,TRUE
+345,SW Missouri St.,438,TRUE
+346,Texas State,455,TRUE
+347,St. Francis (NY),420,TRUE
+348,St. Francis (PA),421,TRUE
+349,St. Peter's,429,TRUE
+350,Stephen F. Austin,434,TRUE
+351,Stetson,435,TRUE
+352,Stony Brook,436,TRUE
+354,Tennessee State,447,TRUE
+355,Tennessee Tech,448,TRUE
+356,Tennessee Martin,446,TRUE
+358,Texas Southern,454,TRUE
+359,Texas Arlington,452,TRUE
+360,Texas San Antonio,453,TRUE
+361,Towson,462,TRUE
+362,Troy,464,TRUE
+363,UC Irvine,471,TRUE
+364,UC Riverside,472,TRUE
+365,UC Santa Barbara,474,TRUE
+371,Utah Valley State,488,TRUE
+372,Valparaiso,490,TRUE
+373,Vermont,493,TRUE
+377,Wagner,501,TRUE
+378,Western Illinois,516,TRUE
+379,Western Kentucky,517,TRUE
+380,Wichita State,519,TRUE
+381,William & Mary,520,TRUE
+382,Winthrop,523,TRUE
+385,Wisconsin-Milwaukee,528,TRUE
+386,Wright State,530,TRUE
+387,Youngstown,534,TRUE
+500,Referee,356,FALSE
+501,Albany State,7,TRUE
+502,Alief-Elsik (HS),9,TRUE
+503,American International,10,TRUE
+504,Argentina,12,TRUE
+505,Auburn-Montgomery,22,TRUE
+506,Augsburg (MN),23,TRUE
+507,Augustana,23,TRUE
+508,Australia,25,TRUE
+509,Barton County CC,28,TRUE
+510,Blinn College (TX),35,TRUE
+511,Bosnia,37,TRUE
+512,Brazil,43,TRUE
+513,Butler County CC,47,TRUE
+514,BYU,48,TRUE
+515,Cal State Bakersfield,49,TRUE
+516,Centenary,61,TRUE
+517,Central Arkansas,62,TRUE
+518,Central Oklahoma,66,TRUE
+519,Central State,66,TRUE
+520,China,72,TRUE
+521,Clifton J. Ozen (HS),79,TRUE
+522,Cluj University (ROU),79,TRUE
+523,Col. of St. Rose,81,TRUE
+524,College of Charleston,83,TRUE
+525,Confederation College,87,TRUE
+526,Croatia,94,TRUE
+527,Cuba,95,TRUE
+528,Cypress Creek (HS),96,TRUE
+529,Czech Republic,97,TRUE
+530,Delta State,104,TRUE
+531,Detroit Mercy,109,TRUE
+532,Dominguez (HS),110,TRUE
+533,East St. Louis (HS),119,TRUE
+534,Eau Claire (HS),124,TRUE
+535,Elizabeth City,128,TRUE
+536,Estonia,130,TRUE
+537,Farragut Academy (HS),135,TRUE
+538,Fayetteville State,136,TRUE
+539,France,145,TRUE
+540,Fullerton Coll CA (JC),146,TRUE
+541,Germany,156,TRUE
+542,Glynn Academy (HS),157,TRUE
+543,Grand Canyon,161,TRUE
+544,Greece,162,TRUE
+545,Hampton Inst.,166,TRUE
+546,Hungary,182,TRUE
+547,Illinois Wesleyan,188,TRUE
+548,Indian Hills CC,191,TRUE
+549,Italy,202,TRUE
+550,Kaunas,211,TRUE
+551,Lewis & Clark,222,TRUE
+552,Lithuania,225,TRUE
+553,Longwood,228,TRUE
+554,Lower Merion (HS),233,TRUE
+555,Martin Luther King (HS),244,TRUE
+556,Memphis State,253,TRUE
+557,Mercy,254,TRUE
+558,Mississippi,265,TRUE
+559,Morehouse,275,TRUE
+560,Mt. Zion C.A. (HS),279,TRUE
+561,North Carolina Central,300,TRUE
+562,NE Illinois,283,TRUE
+563,NE Louisiana,283,TRUE
+564,North East Mississippi CC,304,TRUE
+565,Truman,464,TRUE
+566,Netherlands,285,TRUE
+567,Nevada-Reno,286,TRUE
+568,Northwestern Oklahoma State,312,TRUE
+569,NYU,316,TRUE
+570,Oak Hill Academy (HS),318,TRUE
+571,Okaloosa-Walton CC,324,TRUE
+572,Olympiakos,327,TRUE
+573,Petersburg (HS),339,TRUE
+574,Pfeiffer,340,TRUE
+575,Picayune (HS),342,TRUE
+576,Poland,345,TRUE
+577,Russia,364,TRUE
+578,Russian Ntl. Team,364,TRUE
+579,Sacramento City,365,TRUE
+580,Sacramento State,366,TRUE
+581,Saskatchewan,377,TRUE
+582,Southeastern Oklahoma State,409,TRUE
+583,Seattle University,384,TRUE
+584,Serbia,386,TRUE
+585,South Florida,402,TRUE
+586,Shaw,388,TRUE
+587,Slovenia,393,TRUE
+588,Southeastern,406,TRUE
+589,Southern Methodist,414,TRUE
+590,Soutwestern LA-LAF,416,TRUE
+591,Spain,417,TRUE
+592,St. Mary's (TX),426,TRUE
+593,St. Patrick's (HS),427,TRUE
+594,St. Vincent,430,TRUE
+595,St. Vincent-St. Mary (HS),431,TRUE
+596,Starkville (HS),433,TRUE
+597,Stefonel,433,TRUE
+598,SW Louisiana,438,TRUE
+599,Tenn.-Chattanooga,444,TRUE
+600,Texas-Pan American,457,TRUE
+601,Master's College,250,TRUE
+602,Thornwood (HS),460,TRUE
+603,Trenton St.,462,TRUE
+604,Trinity Valley CC,463,TRUE
+605,Turkey,467,TRUE
+606,UMass,477,TRUE
+607,UBC,469,TRUE
+608,Ukraine,477,TRUE
+609,UNC Charlotte,479,TRUE
+610,UNC Wilmington-Duplicate,481,TRUE
+611,Unknown,482,TRUE
+612,VCU,492,TRUE
+613,Venezuela,492,TRUE
+614,Virginia Union,499,TRUE
+615,West Florida,508,TRUE
+616,West Virginia State,511,TRUE
+617,West Virginia Tech,512,TRUE
+618,Washington Union (HS),505,FALSE
+619,West Texas State,510,TRUE
+620,Westbury Christian (HS),513,FALSE
+621,Wingate,521,TRUE
+622,Winston-Salem State,522,TRUE
+623,Wisconsin-Green Bay,526,TRUE
+624,Wisconsin Stevens Point,525,TRUE
+625,Yugoslavia,535,TRUE
+626,North Dakota,302,TRUE
+627,#N/A,#N/A,FALSE
+628,Nigeria,295,TRUE
+629,Republic of Georgia,357,FALSE
+630,Serbia and Montenegro,386,TRUE
+631,#N/A,#N/A,FALSE
+632,SW Atlanta Christian (HS),438,FALSE
+633,Peoria Central (HS),336,FALSE
+634,Latvia,217,TRUE
+635,#N/A,#N/A,FALSE
+636,Puerto Rico,352,TRUE
+637,Abraham Lincoln (HS),0,FALSE
+638,South Korea,405,FALSE
+639,Bakersfield (HS),26,FALSE
+640,St. Benedict's Prep (HS),418,FALSE
+641,South Kent Prep (HS),404,FALSE
+642,Iceland,182,TRUE
+643,Southeastern Illinois,407,FALSE
+644,North Carolina Central,300,FALSE
+645,#N/A,#N/A,FALSE
+646,Congo,88,TRUE
+647,Coastal Christian Academy,81,FALSE
+648,William Paterson University,520,FALSE
+649,Seattle Prep (HS),383,FALSE
+650,St. Joseph (HS),423,FALSE
+651,Gulf Shores Academy (HS),164,FALSE
+652,Skyline (HS),392,FALSE
+653,IMG Academy,189,FALSE
+654,Lanier (HS),217,FALSE
+655,South Gwinnett (HS),403,FALSE
+656,South Kent Prep (HS),404,FALSE
+657,Walsh,502,FALSE
+658,Belgium,30,FALSE
+659,Westchester (HS),514,FALSE
