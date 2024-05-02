@@ -190,48 +190,63 @@ def calc_destiny(birthyear, is2005):
     else:
         return 1
 
-def calc_attributes(record, is2005, multiplier, deducter):
+def convert_rating(rating, is2005):
+    if is2005:
+        a = -7.5075075075075179e-003
+        b = 2.2687687687687701e+000
+        c = -5.2027027027027046e+001
+    else:
+        a = -0.0105726416071245
+        b = 2.64884539712128
+        c = -59.6132339235793
+    new_rating = round((a * (rating ** 2)) + (b * rating) + c)
+    if new_rating > 99:
+        new_rating = 99
+    elif new_rating < 0:
+        new_rating = 0
+    return int(new_rating)
 
+def calc_attributes(record, is2005):
     attributes = []
-    fgpbase = int(multiplier*(max(record[1]['SShtCls'], record[1]['SShtMed']))-deducter)
+    fgpbase = convert_rating(max(record[1]['SShtCls'], record[1]['SShtMed']), is2005)
     attributes.append(fgpbase)
-    threeptbas = int(multiplier*(record[1]['SSht3PT'])-deducter)
+    threeptbas = convert_rating(record[1]['SSht3PT'], is2005)
     attributes.append(threeptbas)
     ftpbase = record[1]["SShtFT"]
     attributes.append(ftpbase)
-    dnkability = int(multiplier*(record[1]['SDunk'])-deducter)
+    dnkability = convert_rating(record[1]['SDunk'], is2005)
     attributes.append(dnkability)
-    stlability = int(multiplier*(record[1]['SSteal'])-deducter)
+    stlability = convert_rating(record[1]['SSteal'], is2005)
     attributes.append(stlability)
-    blkability = int(multiplier*(record[1]['SBlock'])-deducter)
+    blkability = convert_rating(record[1]['SBlock'], is2005)
     attributes.append(blkability)
-    oreability = int(multiplier*(record[1]['SOReb'])-deducter)
+    oreability = convert_rating(record[1]['SOReb'], is2005)
     attributes.append(oreability)
-    dreability = int(multiplier*(record[1]['SDReb'])-deducter)
+    dreability = convert_rating(record[1]['SDReb'], is2005)
     attributes.append(dreability)
-    balability = int(multiplier*(record[1]['SPass'])-deducter)
+    balability = convert_rating(record[1]['SPass'], is2005)
     attributes.append(balability)
-    offability = int(multiplier*(record[1]['SOAwar'])-deducter)
+    offability = convert_rating(record[1]['SOAwar'], is2005)
     attributes.append(offability)
-    defability = int(multiplier*(record[1]['SDAwar'])-deducter)
+    defability = convert_rating(record[1]['SDAwar'], is2005)
     attributes.append(defability)
-    speed = int(multiplier*(record[1]['SSpeed'])-deducter)
+    speed = convert_rating(record[1]['SSpeed'], is2005)
     attributes.append(speed)
-    quick = int(multiplier*(record[1]['SQuick'])-deducter)
+    quick = convert_rating(record[1]['SQuick'], is2005)
     attributes.append(quick)
-    jump = int(multiplier*(record[1]['SVertical'])-deducter)
+    jump = convert_rating(record[1]['SVertical'], is2005)
     attributes.append(jump)
-    dribble = int(multiplier*(record[1]['SBallHndl'])-deducter)
+    dribble = convert_rating(record[1]['SBallHndl'], is2005)
     attributes.append(dribble)
-    dstrength = int(multiplier*(record[1]['SStrength'])-deducter)
+    dstrength = convert_rating(record[1]['SStrength'], is2005)
     attributes.append(dstrength)
-    dhardy = int(multiplier*(record[1]['SDurab'])-deducter)
+    dhardy = convert_rating(record[1]['SDurab'], is2005)
     attributes.append(dhardy)
     dshootrang = calc_shoot_range(threeptbas)
     attributes.append(dshootrang)
-    fatigue = int(multiplier*(record[1]['SStamina'])-deducter)
+    fatigue = convert_rating(record[1]['SStamina'], is2005)
     attributes.append(fatigue)
-    insidesc = int((multiplier*0.5*(record[1]['SShtLoP'] + record[1]['SShtCls']))-deducter)
+    insidesc = convert_rating(0.5*(record[1]['SShtLoP'] + record[1]['SShtCls']), is2005)
     attributes.append(insidesc)
     threeatt2k = record[1]['T3PTShots']
     allatts2k = record[1]['TInsShots'] + record[1]['TCloseSht'] + record[1]['TMidShots'] + threeatt2k
